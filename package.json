@@ -22,10 +22,9 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "lodash": "^4.17.15",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11"
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
   },
-  "dependencies": {},
   "bugs": {
     "url": "https://github.com/inwebo/AssetsLoader.js/issues"
   }
